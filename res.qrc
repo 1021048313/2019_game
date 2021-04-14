@@ -1,0 +1,52 @@
+<RCC>
+    <qresource prefix="/">
+        <file>music/clic.wav</file>
+        <file>music/click.wav</file>
+        <file>music/dur.mp3</file>
+        <file>music/dur.wav</file>
+        <file>music/lose.wav</file>
+        <file>music/try.wav</file>
+        <file>music/win.wav</file>
+        <file>ps/20180919165159 (4).png</file>
+        <file>ps/again.png</file>
+        <file>ps/again1.png</file>
+        <file>ps/anniu.png</file>
+        <file>ps/backbtn.png</file>
+        <file>ps/backbtn1.png</file>
+        <file>ps/background.jpg</file>
+        <file>ps/ban1.png</file>
+        <file>ps/ban2.png</file>
+        <file>ps/be.png</file>
+        <file>ps/bg-end(door) - static.jpg</file>
+        <file>ps/blackdoor.png</file>
+        <file>ps/bluedark.png</file>
+        <file>ps/bule.png</file>
+        <file>ps/caozuo.png</file>
+        <file>ps/caozuo1.png</file>
+        <file>ps/fire.png</file>
+        <file>ps/gan1.png</file>
+        <file>ps/gan2.png</file>
+        <file>ps/green.png</file>
+        <file>ps/greendown.png</file>
+        <file>ps/greendown1.png</file>
+        <file>ps/he.jpg</file>
+        <file>ps/ico.ico</file>
+        <file>ps/icon.png</file>
+        <file>ps/kaishi.png</file>
+        <file>ps/mental.jpg</file>
+        <file>ps/mental.png</file>
+        <file>ps/more.png</file>
+        <file>ps/more1.jpg</file>
+        <file>ps/next.png</file>
+        <file>ps/play.png</file>
+        <file>ps/redalas.png</file>
+        <file>ps/rederr.png</file>
+        <file>ps/start1.jpg</file>
+        <file>ps/start1.png</file>
+        <file>ps/start2.png</file>
+        <file>ps/state.png</file>
+        <file>ps/stone.png</file>
+        <file>ps/suspend.png</file>
+        <file>ps/water.png</file>
+    </qresource>
+</RCC>
